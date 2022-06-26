@@ -9,7 +9,14 @@ https://github.com/Bropell/School_District_Analysis/blob/main/PyCitySchools_Chal
 Before: ![alt text](https://github.com/Bropell/School_District_Analysis/blob/main/Resources/district_summary_before.png)
 After: ![alt text](https://github.com/Bropell/School_District_Analysis/blob/main/Resources/district_summary_after.png)
 
+As seen in the images above, removing the math and reading scores from the Thomas High School ninth graders had little to no affect on the district summary. Everything dropped by tenths of a percent except for the average reading score which remained the same. 
+
 - How is the school summary affected?
+
+Before: ![alt text](https://github.com/Bropell/School_District_Analysis/blob/main/Resources/per_school_summary_before.png)
+After: ![alt text](https://github.com/Bropell/School_District_Analysis/blob/main/Resources/per_school_summary_after.png)
+
+ 
 - How does replacing the ninth graders' math and reading scores affect Thomas High School's perfomrance relative to other schools?
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade

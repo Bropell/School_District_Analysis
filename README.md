@@ -16,7 +16,7 @@ As seen in the images above, removing the math and reading scores from the Thoma
 Before: ![alt text](https://github.com/Bropell/School_District_Analysis/blob/main/Resources/per_school_summary_before.png)
 After: ![alt text](https://github.com/Bropell/School_District_Analysis/blob/main/Resources/per_school_summary_after.png)
 
- 
+ As 
 - How does replacing the ninth graders' math and reading scores affect Thomas High School's perfomrance relative to other schools?
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade

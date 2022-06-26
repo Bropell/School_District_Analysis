@@ -5,6 +5,7 @@ The purpose of this analysis is to use the power of Pandas and Jupyter Notebook 
 https://github.com/Bropell/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb
 
 - How is the district summary affected?
+
 Before: ![alt text](https://github.com/Bropell/School_District_Analysis/blob/main/Resources/district_summary_before.png)
 After: ![alt text](https://github.com/Bropell/School_District_Analysis/blob/main/Resources/district_summary_after.png)
 

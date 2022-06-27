@@ -23,6 +23,8 @@ After: ![alt text](https://github.com/Bropell/School_District_Analysis/blob/main
 Before: ![alt text](https://github.com/Bropell/School_District_Analysis/blob/main/Resources/top_schools_before.png)
 After: ![alt text](https://github.com/Bropell/School_District_Analysis/blob/main/Resources/top_schools_after.png)
 
+As seen in the images above, removing math and reading scores from the Thomas High School ninth graders had no affect on the school's performance relative to other schools. The adjusted values simply narrowed the gap ever so slightly between Thomas High School who is ranked second highest, and Griffin High School who is ranked third. 
+
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
     - Scores by school spending

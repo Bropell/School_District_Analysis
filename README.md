@@ -27,7 +27,7 @@ As seen in the images above, removing math and reading scores from the Thomas Hi
 
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
-    - Scores by school spending
-    - Scores by school size
-    - Scores by school type
+    The math and reading scores by grade did not change at all except for the ninth graders at Thomas High who have no values, these were omitted for this exercise. 
+    - Scores by school spending, school size and school type
+    Replacing the ninth-grade scores had absoultely no affect on school spending, school size and school type because those parameters were not dependent on math or reading scores.    
 ## Summary
